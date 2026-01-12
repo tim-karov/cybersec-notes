@@ -1,1 +1,28 @@
-# cybersec-notes
+# Pentest / Red / Cybersec Notes
+
+Hi! I'm Tim, 29 y.o., IT background (Applied Informatics), focus on **penetration testing / red team**
+
+## TryHackMe Progress '25
+- Pre Security Path ✅
+- Cyber Security 101 Path ✅
+- Jr Penetration Tester Path ✅
+- Web Fundamentals Path ✅
+
+## HackTheBox Progress
+| Machine | Status | Write-up |
+|---------|--------|----------|
+| Meow (Starting Point) | ✅ | [link] |
+| Archetype (Starting Point) | ⏳ | - |
+| [add more] | | |
+
+## Skills Stack
+**Tools**: Nmap, Burp Suite, Gobuster, Metasploit, sqlmap, John/Hydra  
+**Techniques**: Recon, enumeration, web exploits (SQLi/XSS/IDOR), Linux/Windows priv esc, basic buffer overflows  
+**Methodologies**: Full pentest cycle (recon → scan → exploit → post-exploit → reporting)
+
+## Profiles
+- [TryHackMe](https://tryhackme.com/p/karovtim)
+- [HackTheBox](https://app.hackthebox.com/profile/2933758)
+
+---
+**Updated weekly.** Follow my progress! 🚀
