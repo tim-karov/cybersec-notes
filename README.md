@@ -9,10 +9,15 @@ Hi! I'm Tim, 29 y.o., IT background (Applied Informatics), focus on **penetratio
 - Web Fundamentals Path ✅
 
 ## HackTheBox Progress
+- Tier 0 - Foundations ✅
+- Tier 1 - Fundamental Exploitation ✅
+
+👇 **Tier 2 - Multi-Step Attacks and Privilege Escalation Write-ups:**
+  
 | Machine | Status | Write-up |
 |---------|--------|----------|
-| Meow (Starting Point) | ✅ | [link] |
-| Archetype (Starting Point) | ⏳ | - |
+| Unified | ✅ | [HTB Starting Point Tier 2: Unified](https://github.com/tim-karov/cybersec-notes/blob/bbae2eeab8d1abd66de6cc9b807d752299dc88f0/writeups/htb-starting-point-t2-unified.md) |
+| Included | ⏳ | - |
 | [add more] | | |
 
 ## Skills Stack
