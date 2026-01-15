@@ -5,7 +5,7 @@
 - **Цель:** Практика 
 
 ## 1. Recon & Enumeration
-- Nmap `nmap -sU -sC -sV -v -T4 $ip`.
+- Nmap `nmap -sC -sV -v -T4 $ip`, получаем 2 открытых порта `22 (SSH)`, `80 (HTTP)`
 
 ## 2. Exploitation
 
