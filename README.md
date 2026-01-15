@@ -17,7 +17,7 @@ Hi! I'm Tim, 29 y.o., IT background (Applied Informatics), focus on **penetratio
 | Machine | Status | Write-up |
 |---------|--------|----------|
 | Unified | ✅ | [HTB Starting Point Tier 2: Unified](https://github.com/tim-karov/cybersec-notes/blob/bbae2eeab8d1abd66de6cc9b807d752299dc88f0/writeups/htb-starting-point-t2-unified.md) |
-| Included | ⏳ | - |
+| Included | ✅ | [HTB Starting Point Tier 2: Included](https://github.com/tim-karov/cybersec-notes/blob/91cf59cbfbf2c6f1ba90ef3424817b65048f6e45/writeups/htb-starting-point-t2-included.md) |
 | [add more] | | |
 
 ## Skills Stack
