@@ -18,7 +18,7 @@ Hi! I'm Tim, 29 y.o., IT background (Applied Informatics), focus on **penetratio
 |---------|--------|----------|
 | Unified | ✅ | [HTB Starting Point Tier 2: Unified](https://github.com/tim-karov/cybersec-notes/blob/bbae2eeab8d1abd66de6cc9b807d752299dc88f0/writeups/htb-starting-point-t2-unified.md) |
 | Included | ✅ | [HTB Starting Point Tier 2: Included](https://github.com/tim-karov/cybersec-notes/blob/91cf59cbfbf2c6f1ba90ef3424817b65048f6e45/writeups/htb-starting-point-t2-included.md) |
-| [add more] | | |
+| Base | ✅ | [HTB Starting Point Tier 2: Base](https://github.com/tim-karov/cybersec-notes/blob/8a649ac325a764a7485b68e250d3f82a73f01582/writeups/htb-starting-point-t2-base.md) |
 
 ## Skills Stack
 **Tools**: Nmap, Burp Suite, Gobuster, Metasploit, sqlmap, John/Hydra  
