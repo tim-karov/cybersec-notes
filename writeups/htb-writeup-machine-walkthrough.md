@@ -1,4 +1,4 @@
-# HTB: "Writeup" Machine Walktrough
+# HTB: "Writeup" Machine Walkthrough
 
 - **Difficulty:** Easy
 - **Дата:** 17.01.2026
