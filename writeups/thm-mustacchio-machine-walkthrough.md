@@ -17,7 +17,7 @@ Nmap `nmap -sC -sV -v $ip`, получаем 2 открытых порта `22 (
   <com>&xxe;</com>
 </comment>
 ```
-Успешно, файл прочитан. Опираясь на комментарий в исходном коде, нам нужно дойти таким образом до SSH-ключа пользователя `Barry`, пробуем следующий путь: `home/barry/.ssh/id_rsa` и получаем приватный ключ, который мы записываем в отдельный файл, в моем примере это `privkey`, даем этому файлу полный права доступа `sudo chmod 700 privkey` и подключаемся: `sudo ssh -i private barry@machine_ip`, но встречаем в лицо это: `Enter passphrase for key 'private':`. Окей, тулзой ssh2john получим хеш ключа: `sudo ssh2john private > hash`, и теперь пробуем извлечь хеш с помощью словаря `rockyou.txt`: `john hash --wordlist=/usr/share/wordlists/rockyou.txt`. Получаем passphrase: `urieljames` и коннектимся используя ее. Успех!
+Успешно, файл прочитан. Опираясь на комментарий в исходном коде, нам нужно дойти таким образом до SSH-ключа пользователя `Barry`, пробуем следующий путь: `home/barry/.ssh/id_rsa` и получаем приватный ключ, который мы записываем в отдельный файл, в моем примере это `privkey`, даем этому файлу полный права доступа `sudo chmod 700 privkey` и подключаемся: `sudo ssh -i private barry@machine_ip`, но встречаем в лицо это: `Enter passphrase for key 'private':`. Окей, тулзой ssh2john получим хеш ключа: `sudo ssh2john private > hash`, и теперь пробуем извлечь хеш с помощью словаря `rockyou.txt`: `john hash --wordlist=/usr/share/wordlists/rockyou.txt`. Получаем passphrase: `urieljames` и коннектимся используя ее. Успех, сразу же забираем user-флаг и приступаем к поиску веторов для повышения привилегий.
 
 ## 3. Privilege Escalation
 
