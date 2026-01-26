@@ -25,6 +25,11 @@ Hi! I'm Tim, 29 y.o., IT background (Applied Informatics), focus on **penetratio
 |---------|--------|----------|--------|
 | Writeup | Easy | ✅ | [HTB "Writeup" Walkthrough](https://github.com/tim-karov/cybersec-notes/blob/2e22de47beeb5144248a4f60246a7ffe33614da8/writeups/htb-writeup-machine-walkthrough.md) |
 
+👇 **THM Public Machines Write-ups:**
+| Machine | Dificulty | Status | Write-up |
+|---------|--------|----------|--------|
+| Mustacchio | Easy | ✅ | [THM "Mustacchio" Walkthrough](https://github.com/tim-karov/cybersec-notes/blob/fc440501cc5996b56c16177a55be383eb4b65332/writeups/thm-mustacchio-machine-walkthrough.md) |
+
 ## Skills Stack
 **Tools**: Nmap, Burp Suite, Gobuster, Metasploit, sqlmap, John/Hydra  
 **Techniques**: Recon, enumeration, web exploits (SQLi/XSS/IDOR), Linux/Windows priv esc, basic buffer overflows  
