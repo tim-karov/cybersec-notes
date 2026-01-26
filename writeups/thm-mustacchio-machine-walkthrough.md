@@ -1,6 +1,6 @@
 # THM: "Mustacchio" Machine Walkthrough
 
-- **Difficulty:** Easy / 
+- **Difficulty:** Easy
 - **Дата:** 24.01.2026
 
 ## 1. Recon & Enumeration
